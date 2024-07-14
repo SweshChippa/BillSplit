@@ -57,12 +57,15 @@ BillSplit is a MERN stack application designed to optimize and minimize transact
 1. Clone the repository:
    ```sh
    git clone https://github.com/your-username/BillSplit.git
+   
 2. Install server dependencies:
-   npm install
+   ```sh
+    npm install
 ### Running the Application
 
-1. Running client side and server side concurrently
- npm run dev
+1. Running client side and server side concurrently:
+   ```sh
+   npm run dev
 
 ### Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for review.
